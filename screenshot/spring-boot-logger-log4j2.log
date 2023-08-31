@@ -1,0 +1,41 @@
+2023-08-30 09:43:31,690 INFO c.e.d.c.OrderController [main] Submit order
+2023-08-30 09:43:31,711 ERROR c.e.d.c.OrderController [main] Cannot find User with name:
+2023-08-30 09:52:45,601 INFO c.e.d.c.OrderController [main] Submit order
+2023-08-30 09:52:45,609 ERROR c.e.d.c.OrderController [main] Cannot find User with name:
+2023-08-30 10:09:02,729 INFO c.e.d.c.OrderController [main] Get Order by User
+2023-08-30 10:09:02,745 INFO c.e.d.c.OrderController [main] Get orders successfully
+2023-08-30 10:09:26,373 INFO c.e.d.c.UserController [main] Create new User
+2023-08-30 10:09:26,380 INFO c.e.d.c.UserController [main] User name set with
+2023-08-30 10:09:26,384 ERROR c.e.d.c.UserController [main] Create user failures
+2023-08-30 10:09:38,981 INFO c.e.d.c.CartController [main] Add to cart
+2023-08-30 10:09:38,991 ERROR c.e.d.c.CartController [main] Not found Username:
+2023-08-30 10:09:49,262 INFO c.e.d.c.CartController [main] Add to cart
+2023-08-30 10:09:49,274 ERROR c.e.d.c.CartController [main] Not found item:
+2023-08-30 10:09:55,207 INFO c.e.d.c.CartController [main] Add to cart
+2023-08-30 10:09:55,220 INFO c.e.d.c.CartController [main] Add to Cart successfully
+2023-08-30 10:10:02,294 ERROR c.e.d.c.CartController [main] Not found Username:
+2023-08-30 10:11:04,753 ERROR c.e.d.c.CartController [main] Not found item:
+2023-08-30 10:11:14,487 INFO c.e.d.c.UserController [main] Create new User
+2023-08-30 10:11:14,492 INFO c.e.d.c.UserController [main] User name set with
+2023-08-30 10:11:14,498 ERROR c.e.d.c.UserController [main] Create user failures
+2023-08-30 10:22:44,459 INFO c.e.d.c.UserController [main] Create new User
+2023-08-30 10:22:44,464 INFO c.e.d.c.UserController [main] User name set with
+2023-08-30 10:22:44,470 INFO c.e.d.c.UserController [main] Create user successfully
+2023-08-30 10:24:37,705 INFO c.e.d.c.UserController [main] Create new User
+2023-08-30 10:24:37,709 INFO c.e.d.c.UserController [main] User name set with
+2023-08-30 10:24:37,716 INFO c.e.d.c.UserController [main] Create user successfully
+2023-08-30 10:24:53,535 INFO c.e.d.c.UserController [main] Create new User
+2023-08-30 10:24:53,539 INFO c.e.d.c.UserController [main] User name set with
+2023-08-30 10:24:53,543 ERROR c.e.d.c.UserController [main] Create user failures
+2023-08-30 10:25:02,076 INFO c.e.d.c.UserController [main] Create new User
+2023-08-30 10:25:02,085 INFO c.e.d.c.UserController [main] User name set with
+2023-08-30 10:25:02,090 ERROR c.e.d.c.UserController [main] Create user failures
+2023-08-30 10:25:27,827 INFO c.e.d.c.OrderController [main] Get Order by User
+2023-08-30 10:25:27,837 INFO c.e.d.c.OrderController [main] Get orders successfully
+2023-08-30 10:25:35,327 INFO c.e.d.c.OrderController [main] Get Order by User
+2023-08-30 10:25:35,339 ERROR c.e.d.c.OrderController [main] Cannot find User with name:
+2023-08-30 10:25:42,736 INFO c.e.d.c.OrderController [main] Submit order
+2023-08-30 10:25:42,747 INFO c.e.d.c.OrderController [main] Order request successfully
+2023-08-30 11:05:42,648 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-30 11:05:42,662 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-08-30 11:05:42,824 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 162 ms
